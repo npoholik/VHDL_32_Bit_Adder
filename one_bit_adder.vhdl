@@ -8,7 +8,7 @@ entity one_bit_adder is
 		cin: in std_logic;
 		cout: out std_logic;
 		sum: out std_logic);
-end one_bit_adder;;
+end one_bit_adder;
 
 architecture behav of one_bit_adder is
 	begin
